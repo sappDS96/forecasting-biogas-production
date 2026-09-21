@@ -1,0 +1,12 @@
+﻿nombre,descripción,unidad,fuente,granularidad
+Biogas,Caudal medio diario de biogás total,CFM,LABS/SCADA,Diaria
+V-TWAS_gal,Volumen diario de TWAS alimentado,gal,LABS,Diaria
+V-PS_gal,Volumen diario de lodo primario alimentado,gal,LABS,Diaria
+V-HSW_gal,Volumen diario de residuos de alta carga alimentado,gal,LABS,Diaria
+Dig1-T_degF / Dig2-T_degF,Temperatura de los digestores,°F,LABS,Diaria
+Dig1-pH / Dig2-pH,pH de los digestores,pH,LABS,Diaria
+SRT,Tiempo de retención de sólidos,d,LABS,Diaria
+AGV,Ácidos grasos volátiles por digestor,mg/L,LABS,Diaria con ausentes
+Alcalinidad,Alcalinidad como CaCO3 por digestor,mg/L,LABS,Diaria con ausentes
+FOS/TAC,Relación entre ácidos y capacidad alcalina,sin unidad,LABS,Diaria con ausentes
+SCADA variables,Medias diarias de alimentación y condiciones operativas,varias,SCADA,Diaria agregada

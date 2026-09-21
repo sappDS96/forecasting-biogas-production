@@ -1,0 +1,449 @@
+﻿Horizonte,Corte,Dataset,Modelo,Variable,Importancia_MAE,Posición,Aparece_top_5
+1,Corte 1,Operativo,Regresión lineal,Biogas_actual,18.380754231424614,1,1
+1,Corte 1,Operativo,Regresión lineal,Biogas_lag_1,6.807437177350428,2,1
+1,Corte 1,Operativo,Regresión lineal,Biogas_media_7d,2.709644966944983,3,1
+1,Corte 1,Operativo,Regresión lineal,V-HSW_gal,0.8864697544348459,4,1
+1,Corte 1,Operativo,Regresión lineal,Biogas_media_3d,0.7217855083931134,5,1
+1,Corte 1,Operativo,Regresión lineal,Biogas_lag_7,0.687351495879615,6,0
+1,Corte 1,Operativo,Regresión lineal,Biogas_lag_3,0.3289940353055229,7,0
+1,Corte 1,Operativo,Regresión lineal,Biogas_lag_2,0.13564224959977836,8,0
+1,Corte 1,Operativo,Regresión lineal,Dig1-pH,0.10376591496172409,9,0
+1,Corte 1,Operativo,Regresión lineal,Biogas_desv_3d,0.08483990348090273,10,0
+1,Corte 1,Operativo,Regresión lineal,Dig1-T_degF,0.043093894047920855,11,0
+1,Corte 1,Operativo,Regresión lineal,V-TWAS_gal,0.03320723041307616,12,0
+1,Corte 1,Operativo,Regresión lineal,TWAS-VS_percent,0.004523290752075582,13,0
+1,Corte 1,Operativo,Regresión lineal,Dig2-T_degF,-0.0005322689412025738,14,0
+1,Corte 1,Operativo,Regresión lineal,Dig2-pH,-0.0012101823118698008,15,0
+1,Corte 1,Operativo,Regresión lineal,BOD-influent_mgL,-0.0017419762231916992,16,0
+1,Corte 1,Operativo,Regresión lineal,Biogas_desv_7d,-0.01795137700095282,17,0
+1,Corte 1,Operativo,Regresión lineal,V-PS_gal,-0.060707071033129265,18,0
+1,Corte 1,Operativo,Regresión lineal,SRT,-0.08357465466647156,19,0
+1,Corte 1,Operativo,Regresión lineal,Q-influent_MGD,-0.15331535365560853,20,0
+1,Corte 2,Operativo,Regresión lineal,Biogas_actual,16.018933284149096,1,1
+1,Corte 2,Operativo,Regresión lineal,Biogas_lag_1,7.8741231733577735,2,1
+1,Corte 2,Operativo,Regresión lineal,V-HSW_gal,2.3375981094944835,3,1
+1,Corte 2,Operativo,Regresión lineal,Biogas_media_7d,2.2932600916665336,4,1
+1,Corte 2,Operativo,Regresión lineal,Biogas_lag_3,0.9406924453221421,5,1
+1,Corte 2,Operativo,Regresión lineal,Biogas_lag_2,0.6129142178821028,6,0
+1,Corte 2,Operativo,Regresión lineal,Biogas_lag_7,0.41410542938685924,7,0
+1,Corte 2,Operativo,Regresión lineal,Dig1-T_degF,0.2911744710070579,8,0
+1,Corte 2,Operativo,Regresión lineal,V-TWAS_gal,0.20214306491056888,9,0
+1,Corte 2,Operativo,Regresión lineal,Dig1-pH,0.12909071933787147,10,0
+1,Corte 2,Operativo,Regresión lineal,BOD-influent_mgL,-0.0006960101701977805,11,0
+1,Corte 2,Operativo,Regresión lineal,TWAS-VS_percent,-0.013249404873894833,12,0
+1,Corte 2,Operativo,Regresión lineal,V-PS_gal,-0.01403568252073555,13,0
+1,Corte 2,Operativo,Regresión lineal,Dig2-pH,-0.018783653331671247,14,0
+1,Corte 2,Operativo,Regresión lineal,Biogas_desv_7d,-0.02230507117318723,15,0
+1,Corte 2,Operativo,Regresión lineal,SRT,-0.03203687919476721,16,0
+1,Corte 2,Operativo,Regresión lineal,Dig2-T_degF,-0.04942562576952696,17,0
+1,Corte 2,Operativo,Regresión lineal,Q-influent_MGD,-0.061724526409829394,18,0
+1,Corte 2,Operativo,Regresión lineal,Biogas_desv_3d,-0.1394401673865005,19,0
+1,Corte 2,Operativo,Regresión lineal,Biogas_media_3d,-0.1857744665214632,20,0
+1,Corte 3,Operativo,Regresión lineal,Biogas_actual,16.4120047918934,1,1
+1,Corte 3,Operativo,Regresión lineal,Biogas_lag_1,4.503009804453508,2,1
+1,Corte 3,Operativo,Regresión lineal,Biogas_media_7d,3.23111750791218,3,1
+1,Corte 3,Operativo,Regresión lineal,V-HSW_gal,1.5501297472672468,4,1
+1,Corte 3,Operativo,Regresión lineal,Biogas_lag_7,1.0442718164508904,5,1
+1,Corte 3,Operativo,Regresión lineal,Biogas_lag_3,0.5232835711066841,6,0
+1,Corte 3,Operativo,Regresión lineal,Biogas_media_3d,0.5219007089623879,7,0
+1,Corte 3,Operativo,Regresión lineal,V-TWAS_gal,0.35065380364085713,8,0
+1,Corte 3,Operativo,Regresión lineal,Biogas_lag_2,0.1119882625916027,9,0
+1,Corte 3,Operativo,Regresión lineal,Dig1-T_degF,0.10181948538171567,10,0
+1,Corte 3,Operativo,Regresión lineal,Dig2-pH,0.08970500948298792,11,0
+1,Corte 3,Operativo,Regresión lineal,Biogas_desv_3d,0.07488247291297867,12,0
+1,Corte 3,Operativo,Regresión lineal,BOD-influent_mgL,0.026371283911684883,13,0
+1,Corte 3,Operativo,Regresión lineal,TWAS-VS_percent,-0.013650409596446877,14,0
+1,Corte 3,Operativo,Regresión lineal,SRT,-0.04423113493665483,15,0
+1,Corte 3,Operativo,Regresión lineal,Q-influent_MGD,-0.0625920402347198,16,0
+1,Corte 3,Operativo,Regresión lineal,V-PS_gal,-0.06426911407413485,17,0
+1,Corte 3,Operativo,Regresión lineal,Dig2-T_degF,-0.07644457277911769,18,0
+1,Corte 3,Operativo,Regresión lineal,Dig1-pH,-0.07694845516013019,19,0
+1,Corte 3,Operativo,Regresión lineal,Biogas_desv_7d,-0.09292712620554937,20,0
+1,Corte 4,Operativo,Regresión lineal,Biogas_actual,13.357746841639345,1,1
+1,Corte 4,Operativo,Regresión lineal,Biogas_lag_1,5.51134212361046,2,1
+1,Corte 4,Operativo,Regresión lineal,Biogas_media_7d,2.8246996053691675,3,1
+1,Corte 4,Operativo,Regresión lineal,V-HSW_gal,1.3128776833624975,4,1
+1,Corte 4,Operativo,Regresión lineal,Biogas_lag_7,0.4287072153583207,5,1
+1,Corte 4,Operativo,Regresión lineal,Biogas_media_3d,0.14736711558762144,6,0
+1,Corte 4,Operativo,Regresión lineal,BOD-influent_mgL,0.029907297456315263,7,0
+1,Corte 4,Operativo,Regresión lineal,Biogas_desv_7d,0.026348956268996204,8,0
+1,Corte 4,Operativo,Regresión lineal,TWAS-VS_percent,0.02293527846699739,9,0
+1,Corte 4,Operativo,Regresión lineal,Biogas_lag_3,0.01009753360740646,10,0
+1,Corte 4,Operativo,Regresión lineal,SRT,-0.0025185703369523084,11,0
+1,Corte 4,Operativo,Regresión lineal,Dig2-T_degF,-0.005033359465278053,12,0
+1,Corte 4,Operativo,Regresión lineal,Dig2-pH,-0.006447101638030972,13,0
+1,Corte 4,Operativo,Regresión lineal,Biogas_lag_2,-0.00791667348462326,14,0
+1,Corte 4,Operativo,Regresión lineal,Biogas_desv_3d,-0.036629189170509946,15,0
+1,Corte 4,Operativo,Regresión lineal,Dig1-T_degF,-0.06226190435759804,16,0
+1,Corte 4,Operativo,Regresión lineal,Q-influent_MGD,-0.09173675635823209,17,0
+1,Corte 4,Operativo,Regresión lineal,V-TWAS_gal,-0.13868161900787115,18,0
+1,Corte 4,Operativo,Regresión lineal,V-PS_gal,-0.30624089560681933,19,0
+1,Corte 4,Operativo,Regresión lineal,Dig1-pH,-0.349485282459867,20,0
+3,Corte 1,Operativo,Regresión lineal,Biogas_actual,3.348732960915308,1,1
+3,Corte 1,Operativo,Regresión lineal,Biogas_lag_7,2.527394387385713,2,1
+3,Corte 1,Operativo,Regresión lineal,Biogas_lag_1,1.4411950415378598,3,1
+3,Corte 1,Operativo,Regresión lineal,Biogas_media_7d,1.230392473229972,4,1
+3,Corte 1,Operativo,Regresión lineal,Biogas_desv_3d,0.902315275783328,5,1
+3,Corte 1,Operativo,Regresión lineal,Biogas_lag_2,0.575399242659094,6,0
+3,Corte 1,Operativo,Regresión lineal,V-PS_gal,0.3338714613343619,7,0
+3,Corte 1,Operativo,Regresión lineal,Dig1-pH,0.18324601476601074,8,0
+3,Corte 1,Operativo,Regresión lineal,Biogas_desv_7d,0.09494516145586189,9,0
+3,Corte 1,Operativo,Regresión lineal,Q-influent_MGD,0.03703179037020661,10,0
+3,Corte 1,Operativo,Regresión lineal,V-HSW_gal,0.02808264943508263,11,0
+3,Corte 1,Operativo,Regresión lineal,Dig2-pH,0.01676117915652995,12,0
+3,Corte 1,Operativo,Regresión lineal,BOD-influent_mgL,0.009816932654678113,13,0
+3,Corte 1,Operativo,Regresión lineal,Biogas_media_3d,0.00040891010034016517,14,0
+3,Corte 1,Operativo,Regresión lineal,V-TWAS_gal,-0.00017694684237667957,15,0
+3,Corte 1,Operativo,Regresión lineal,TWAS-VS_percent,-0.014286906221442307,16,0
+3,Corte 1,Operativo,Regresión lineal,Dig2-T_degF,-0.015835055938570975,17,0
+3,Corte 1,Operativo,Regresión lineal,Dig1-T_degF,-0.10042666530156552,18,0
+3,Corte 1,Operativo,Regresión lineal,SRT,-0.22168690352542555,19,0
+3,Corte 1,Operativo,Regresión lineal,Biogas_lag_3,-0.2799105588311456,20,0
+3,Corte 2,Operativo,Regresión lineal,Biogas_media_7d,3.1697599211418277,1,1
+3,Corte 2,Operativo,Regresión lineal,Biogas_lag_1,2.4969889299901338,2,1
+3,Corte 2,Operativo,Regresión lineal,Biogas_lag_7,1.7986955341700253,3,1
+3,Corte 2,Operativo,Regresión lineal,Dig2-pH,1.2208953277325343,4,1
+3,Corte 2,Operativo,Regresión lineal,Biogas_lag_3,1.104291417695395,5,1
+3,Corte 2,Operativo,Regresión lineal,SRT,0.42980024144186546,6,0
+3,Corte 2,Operativo,Regresión lineal,TWAS-VS_percent,0.1751718363238659,7,0
+3,Corte 2,Operativo,Regresión lineal,Q-influent_MGD,0.13718494656871769,8,0
+3,Corte 2,Operativo,Regresión lineal,Biogas_lag_2,0.09527485948741869,9,0
+3,Corte 2,Operativo,Regresión lineal,V-TWAS_gal,0.009316007003977233,10,0
+3,Corte 2,Operativo,Regresión lineal,BOD-influent_mgL,-0.0023644121451390277,11,0
+3,Corte 2,Operativo,Regresión lineal,Dig2-T_degF,-0.006151631567616533,12,0
+3,Corte 2,Operativo,Regresión lineal,Biogas_desv_7d,-0.027516498937704626,13,0
+3,Corte 2,Operativo,Regresión lineal,V-HSW_gal,-0.050874655282492395,14,0
+3,Corte 2,Operativo,Regresión lineal,Dig1-pH,-0.052417652235075704,15,0
+3,Corte 2,Operativo,Regresión lineal,Biogas_media_3d,-0.10082966594498118,16,0
+3,Corte 2,Operativo,Regresión lineal,V-PS_gal,-0.3796133545532484,17,0
+3,Corte 2,Operativo,Regresión lineal,Dig1-T_degF,-0.41353278862111437,18,0
+3,Corte 2,Operativo,Regresión lineal,Biogas_desv_3d,-0.43785764836127045,19,0
+3,Corte 2,Operativo,Regresión lineal,Biogas_actual,-0.7439090363531093,20,0
+3,Corte 3,Operativo,Regresión lineal,Biogas_lag_1,2.5321750536532583,1,1
+3,Corte 3,Operativo,Regresión lineal,Biogas_lag_7,2.0563115205502642,2,1
+3,Corte 3,Operativo,Regresión lineal,Dig2-pH,0.9698049972504051,3,1
+3,Corte 3,Operativo,Regresión lineal,Biogas_media_7d,0.9435561153012856,4,1
+3,Corte 3,Operativo,Regresión lineal,Biogas_actual,0.6561270233390403,5,1
+3,Corte 3,Operativo,Regresión lineal,Biogas_lag_2,0.5628398621330923,6,0
+3,Corte 3,Operativo,Regresión lineal,Dig2-T_degF,0.38050928169981474,7,0
+3,Corte 3,Operativo,Regresión lineal,SRT,0.2697468902508483,8,0
+3,Corte 3,Operativo,Regresión lineal,Q-influent_MGD,0.1838773826170069,9,0
+3,Corte 3,Operativo,Regresión lineal,TWAS-VS_percent,0.10711449749909932,10,0
+3,Corte 3,Operativo,Regresión lineal,Biogas_desv_7d,0.0927142786605856,11,0
+3,Corte 3,Operativo,Regresión lineal,Dig1-pH,0.08251925362115316,12,0
+3,Corte 3,Operativo,Regresión lineal,BOD-influent_mgL,0.05879949165610014,13,0
+3,Corte 3,Operativo,Regresión lineal,V-PS_gal,0.025596175002689847,14,0
+3,Corte 3,Operativo,Regresión lineal,Biogas_media_3d,0.010221515096523604,15,0
+3,Corte 3,Operativo,Regresión lineal,V-TWAS_gal,-0.032521187118064884,16,0
+3,Corte 3,Operativo,Regresión lineal,Dig1-T_degF,-0.08471008018581472,17,0
+3,Corte 3,Operativo,Regresión lineal,V-HSW_gal,-0.18933121500205985,18,0
+3,Corte 3,Operativo,Regresión lineal,Biogas_lag_3,-0.36787803969811106,19,0
+3,Corte 3,Operativo,Regresión lineal,Biogas_desv_3d,-0.5341424195608269,20,0
+3,Corte 4,Operativo,Regresión lineal,Biogas_lag_7,2.498396380037897,1,1
+3,Corte 4,Operativo,Regresión lineal,Biogas_actual,1.5955930011511312,2,1
+3,Corte 4,Operativo,Regresión lineal,Biogas_media_7d,1.5684434612470455,3,1
+3,Corte 4,Operativo,Regresión lineal,Biogas_lag_1,1.374832231885724,4,1
+3,Corte 4,Operativo,Regresión lineal,Dig2-pH,0.9905388266210273,5,1
+3,Corte 4,Operativo,Regresión lineal,TWAS-VS_percent,0.9013551568023523,6,0
+3,Corte 4,Operativo,Regresión lineal,Dig1-pH,0.8151944950583626,7,0
+3,Corte 4,Operativo,Regresión lineal,Biogas_lag_2,0.2338732996532215,8,0
+3,Corte 4,Operativo,Regresión lineal,Biogas_desv_3d,0.1587067544678881,9,0
+3,Corte 4,Operativo,Regresión lineal,SRT,0.15590260226564184,10,0
+3,Corte 4,Operativo,Regresión lineal,V-HSW_gal,0.005234542830274335,11,0
+3,Corte 4,Operativo,Regresión lineal,Dig2-T_degF,0.004761305317554587,12,0
+3,Corte 4,Operativo,Regresión lineal,Biogas_media_3d,-0.00276544068605773,13,0
+3,Corte 4,Operativo,Regresión lineal,BOD-influent_mgL,-0.03520596193187444,14,0
+3,Corte 4,Operativo,Regresión lineal,Biogas_desv_7d,-0.041856906969656646,15,0
+3,Corte 4,Operativo,Regresión lineal,Q-influent_MGD,-0.047537370947406996,16,0
+3,Corte 4,Operativo,Regresión lineal,Biogas_lag_3,-0.1253009466640897,17,0
+3,Corte 4,Operativo,Regresión lineal,V-TWAS_gal,-0.15650390954542387,18,0
+3,Corte 4,Operativo,Regresión lineal,Dig1-T_degF,-0.19078846769648833,19,0
+3,Corte 4,Operativo,Regresión lineal,V-PS_gal,-0.9059720420795557,20,0
+7,Corte 1,Estabilidad,Random Forest B,V-HSW_gal,1.6783818827722272,1,1
+7,Corte 1,Estabilidad,Random Forest B,Biogas_lag_3,0.5640624331095523,2,1
+7,Corte 1,Estabilidad,Random Forest B,Biogas_media_7d,0.22950818368776282,3,1
+7,Corte 1,Estabilidad,Random Forest B,BOD-influent_mgL,0.1932173998446416,4,1
+7,Corte 1,Estabilidad,Random Forest B,Biogas_actual,0.18947992723746268,5,1
+7,Corte 1,Estabilidad,Random Forest B,Dig1-alk_mgL,0.1650820357562381,6,0
+7,Corte 1,Estabilidad,Random Forest B,SRT,0.1455369003253395,7,0
+7,Corte 1,Estabilidad,Random Forest B,Dig2-pH,0.0935516365003437,8,0
+7,Corte 1,Estabilidad,Random Forest B,Dig2-FOS-TAC,0.08266484614902084,9,0
+7,Corte 1,Estabilidad,Random Forest B,V-PS_gal,0.0753316339952903,10,0
+7,Corte 1,Estabilidad,Random Forest B,Q-influent_MGD,0.0577160183728509,11,0
+7,Corte 1,Estabilidad,Random Forest B,V-TWAS_gal,0.052339084129417304,12,0
+7,Corte 1,Estabilidad,Random Forest B,Dig1-T_degF,0.05187896014619327,13,0
+7,Corte 1,Estabilidad,Random Forest B,Biogas_lag_7,0.05159428197901832,14,0
+7,Corte 1,Estabilidad,Random Forest B,Dig2-alk_mgL,0.04886030911461461,15,0
+7,Corte 1,Estabilidad,Random Forest B,Dig2-T_degF,0.027896294106582786,16,0
+7,Corte 1,Estabilidad,Random Forest B,Biogas_lag_2,0.02320025421249028,17,0
+7,Corte 1,Estabilidad,Random Forest B,Dig1-FOS-TAC,-0.015941186868577973,18,0
+7,Corte 1,Estabilidad,Random Forest B,Dig1-VFA_mgL,-0.029150126532697128,19,0
+7,Corte 1,Estabilidad,Random Forest B,Biogas_lag_1,-0.037449036544600744,20,0
+7,Corte 1,Estabilidad,Random Forest B,Dig2-VFA_mgL,-0.09214834944425263,21,0
+7,Corte 1,Estabilidad,Random Forest B,Biogas_desv_7d,-0.1262548440232493,22,0
+7,Corte 1,Estabilidad,Random Forest B,Dig1-pH,-0.16508709461602536,23,0
+7,Corte 1,Estabilidad,Random Forest B,Biogas_desv_3d,-0.23860535108336478,24,0
+7,Corte 1,Estabilidad,Random Forest B,TWAS-VS_percent,-0.37797326587311775,25,0
+7,Corte 1,Estabilidad,Random Forest B,Biogas_media_3d,-0.3951839774756138,26,0
+7,Corte 2,Estabilidad,Random Forest B,Biogas_media_7d,0.43918153872160703,1,1
+7,Corte 2,Estabilidad,Random Forest B,Biogas_lag_7,0.3931205179092473,2,1
+7,Corte 2,Estabilidad,Random Forest B,SRT,0.3477637712186308,3,1
+7,Corte 2,Estabilidad,Random Forest B,Biogas_desv_3d,0.22363857682297095,4,1
+7,Corte 2,Estabilidad,Random Forest B,Dig1-FOS-TAC,0.15863236967773559,5,1
+7,Corte 2,Estabilidad,Random Forest B,Biogas_actual,0.13790792188494833,6,0
+7,Corte 2,Estabilidad,Random Forest B,V-HSW_gal,0.10776953391946335,7,0
+7,Corte 2,Estabilidad,Random Forest B,Biogas_lag_3,0.10073380198702324,8,0
+7,Corte 2,Estabilidad,Random Forest B,Dig1-pH,0.08779300520818936,9,0
+7,Corte 2,Estabilidad,Random Forest B,BOD-influent_mgL,0.052693965322080774,10,0
+7,Corte 2,Estabilidad,Random Forest B,V-PS_gal,0.020441823167570306,11,0
+7,Corte 2,Estabilidad,Random Forest B,Dig2-pH,0.013260973513330044,12,0
+7,Corte 2,Estabilidad,Random Forest B,Dig2-FOS-TAC,-0.032458241877348824,13,0
+7,Corte 2,Estabilidad,Random Forest B,TWAS-VS_percent,-0.047497800591024486,14,0
+7,Corte 2,Estabilidad,Random Forest B,Biogas_media_3d,-0.050711665032252995,15,0
+7,Corte 2,Estabilidad,Random Forest B,Dig1-T_degF,-0.08329982200538524,16,0
+7,Corte 2,Estabilidad,Random Forest B,Dig1-VFA_mgL,-0.09769134713366015,17,0
+7,Corte 2,Estabilidad,Random Forest B,Biogas_lag_2,-0.10295881782171108,18,0
+7,Corte 2,Estabilidad,Random Forest B,V-TWAS_gal,-0.13057416905054708,19,0
+7,Corte 2,Estabilidad,Random Forest B,Dig2-T_degF,-0.14611420249236745,20,0
+7,Corte 2,Estabilidad,Random Forest B,Dig2-VFA_mgL,-0.15572515295820183,21,0
+7,Corte 2,Estabilidad,Random Forest B,Biogas_desv_7d,-0.23108697270606768,22,0
+7,Corte 2,Estabilidad,Random Forest B,Q-influent_MGD,-0.27324345435967956,23,0
+7,Corte 2,Estabilidad,Random Forest B,Biogas_lag_1,-0.3349296355242572,24,0
+7,Corte 2,Estabilidad,Random Forest B,Dig2-alk_mgL,-0.6771858175192762,25,0
+7,Corte 2,Estabilidad,Random Forest B,Dig1-alk_mgL,-0.7549478700559092,26,0
+7,Corte 3,Estabilidad,Random Forest B,Biogas_lag_3,0.9257430371006414,1,1
+7,Corte 3,Estabilidad,Random Forest B,Biogas_media_7d,0.7968799734515656,2,1
+7,Corte 3,Estabilidad,Random Forest B,Biogas_actual,0.15973839763076397,3,1
+7,Corte 3,Estabilidad,Random Forest B,Dig1-FOS-TAC,0.14295098862764277,4,1
+7,Corte 3,Estabilidad,Random Forest B,Dig2-alk_mgL,0.12388439836842266,5,1
+7,Corte 3,Estabilidad,Random Forest B,V-PS_gal,0.1125077672263977,6,0
+7,Corte 3,Estabilidad,Random Forest B,Dig2-pH,0.10502179611288583,7,0
+7,Corte 3,Estabilidad,Random Forest B,Biogas_lag_7,0.08738210553135346,8,0
+7,Corte 3,Estabilidad,Random Forest B,Dig1-pH,0.0809258130246782,9,0
+7,Corte 3,Estabilidad,Random Forest B,TWAS-VS_percent,0.05401631991700242,10,0
+7,Corte 3,Estabilidad,Random Forest B,Dig2-T_degF,0.05307416478061171,11,0
+7,Corte 3,Estabilidad,Random Forest B,Dig2-VFA_mgL,0.042447800426212726,12,0
+7,Corte 3,Estabilidad,Random Forest B,Dig1-T_degF,0.040389226058253055,13,0
+7,Corte 3,Estabilidad,Random Forest B,Dig1-alk_mgL,0.03826606162095558,14,0
+7,Corte 3,Estabilidad,Random Forest B,Dig2-FOS-TAC,0.03147071444581826,15,0
+7,Corte 3,Estabilidad,Random Forest B,Biogas_lag_2,-0.02846822900770789,16,0
+7,Corte 3,Estabilidad,Random Forest B,Biogas_desv_3d,-0.03371649775179293,17,0
+7,Corte 3,Estabilidad,Random Forest B,V-TWAS_gal,-0.04129064133344471,18,0
+7,Corte 3,Estabilidad,Random Forest B,Dig1-VFA_mgL,-0.047882237881541556,19,0
+7,Corte 3,Estabilidad,Random Forest B,Q-influent_MGD,-0.11061897612531198,20,0
+7,Corte 3,Estabilidad,Random Forest B,BOD-influent_mgL,-0.1355477443986537,21,0
+7,Corte 3,Estabilidad,Random Forest B,SRT,-0.1434829154662026,22,0
+7,Corte 3,Estabilidad,Random Forest B,V-HSW_gal,-0.14506272159618802,23,0
+7,Corte 3,Estabilidad,Random Forest B,Biogas_lag_1,-0.24137829070487485,24,0
+7,Corte 3,Estabilidad,Random Forest B,Biogas_desv_7d,-0.2616979569173303,25,0
+7,Corte 3,Estabilidad,Random Forest B,Biogas_media_3d,-0.5666646385248619,26,0
+7,Corte 4,Estabilidad,Random Forest B,Biogas_actual,0.9881386956377668,1,1
+7,Corte 4,Estabilidad,Random Forest B,Dig2-pH,0.45100230002566877,2,1
+7,Corte 4,Estabilidad,Random Forest B,V-HSW_gal,0.4135011910017347,3,1
+7,Corte 4,Estabilidad,Random Forest B,BOD-influent_mgL,0.3297528337853137,4,1
+7,Corte 4,Estabilidad,Random Forest B,Biogas_lag_7,0.25123874631353543,5,1
+7,Corte 4,Estabilidad,Random Forest B,Biogas_desv_7d,0.24936327656538423,6,0
+7,Corte 4,Estabilidad,Random Forest B,Biogas_media_7d,0.20033314427638088,7,0
+7,Corte 4,Estabilidad,Random Forest B,Dig1-VFA_mgL,0.15981511264071174,8,0
+7,Corte 4,Estabilidad,Random Forest B,Dig1-pH,0.152854225290357,9,0
+7,Corte 4,Estabilidad,Random Forest B,Dig1-FOS-TAC,0.1525859008149837,10,0
+7,Corte 4,Estabilidad,Random Forest B,Q-influent_MGD,0.14099177491934184,11,0
+7,Corte 4,Estabilidad,Random Forest B,Biogas_media_3d,0.1127589911599081,12,0
+7,Corte 4,Estabilidad,Random Forest B,Dig2-alk_mgL,0.09077427292570164,13,0
+7,Corte 4,Estabilidad,Random Forest B,Biogas_desv_3d,0.07118601181176629,14,0
+7,Corte 4,Estabilidad,Random Forest B,Dig2-FOS-TAC,0.05788072557302328,15,0
+7,Corte 4,Estabilidad,Random Forest B,Biogas_lag_2,0.04170658581899787,16,0
+7,Corte 4,Estabilidad,Random Forest B,Dig1-T_degF,0.03722533602946356,17,0
+7,Corte 4,Estabilidad,Random Forest B,SRT,0.028304434447933603,18,0
+7,Corte 4,Estabilidad,Random Forest B,Biogas_lag_3,-0.02948404922666583,19,0
+7,Corte 4,Estabilidad,Random Forest B,TWAS-VS_percent,-0.043162217695479656,20,0
+7,Corte 4,Estabilidad,Random Forest B,V-TWAS_gal,-0.05254889210644649,21,0
+7,Corte 4,Estabilidad,Random Forest B,Dig2-T_degF,-0.06435036344705551,22,0
+7,Corte 4,Estabilidad,Random Forest B,V-PS_gal,-0.1811083161204749,23,0
+7,Corte 4,Estabilidad,Random Forest B,Biogas_lag_1,-0.20733676249273927,24,0
+7,Corte 4,Estabilidad,Random Forest B,Dig2-VFA_mgL,-0.21276443498340997,25,0
+7,Corte 4,Estabilidad,Random Forest B,Dig1-alk_mgL,-0.5924015897099466,26,0
+15,Corte 1,Estabilidad,Regresión lineal,Dig1-FOS-TAC,3.0117561255990033,1,1
+15,Corte 1,Estabilidad,Regresión lineal,Biogas_media_7d,1.4568077729189697,2,1
+15,Corte 1,Estabilidad,Regresión lineal,Dig2-VFA_mgL,1.1067690464893025,3,1
+15,Corte 1,Estabilidad,Regresión lineal,V-HSW_gal,1.024629596853768,4,1
+15,Corte 1,Estabilidad,Regresión lineal,Biogas_lag_2,0.7519029684330633,5,1
+15,Corte 1,Estabilidad,Regresión lineal,Biogas_actual,0.5955600449793585,6,0
+15,Corte 1,Estabilidad,Regresión lineal,Dig1-VFA_mgL,0.5929986014332129,7,0
+15,Corte 1,Estabilidad,Regresión lineal,Dig2-alk_mgL,0.09802225538914015,8,0
+15,Corte 1,Estabilidad,Regresión lineal,Biogas_media_3d,0.080045481436089,9,0
+15,Corte 1,Estabilidad,Regresión lineal,V-TWAS_gal,0.05754578455663264,10,0
+15,Corte 1,Estabilidad,Regresión lineal,Biogas_lag_1,0.04978482557680621,11,0
+15,Corte 1,Estabilidad,Regresión lineal,Biogas_lag_3,0.04127399158199481,12,0
+15,Corte 1,Estabilidad,Regresión lineal,SRT,0.03627614965428805,13,0
+15,Corte 1,Estabilidad,Regresión lineal,V-PS_gal,0.0359810477969809,14,0
+15,Corte 1,Estabilidad,Regresión lineal,Dig1-T_degF,0.022305172414748144,15,0
+15,Corte 1,Estabilidad,Regresión lineal,Dig2-pH,0.014859817964531175,16,0
+15,Corte 1,Estabilidad,Regresión lineal,Q-influent_MGD,2.842170943040401e-15,17,0
+15,Corte 1,Estabilidad,Regresión lineal,Dig1-pH,-0.0011695077744093396,18,0
+15,Corte 1,Estabilidad,Regresión lineal,BOD-influent_mgL,-0.025320499893000205,19,0
+15,Corte 1,Estabilidad,Regresión lineal,Biogas_desv_3d,-0.026455036024999858,20,0
+15,Corte 1,Estabilidad,Regresión lineal,Dig2-T_degF,-0.07923363892407949,21,0
+15,Corte 1,Estabilidad,Regresión lineal,Biogas_lag_7,-0.19294267411247218,22,0
+15,Corte 1,Estabilidad,Regresión lineal,Dig1-alk_mgL,-0.3772327405109316,23,0
+15,Corte 1,Estabilidad,Regresión lineal,Dig2-FOS-TAC,-0.536229047939117,24,0
+15,Corte 1,Estabilidad,Regresión lineal,Biogas_desv_7d,-0.8745080391214295,25,0
+15,Corte 1,Estabilidad,Regresión lineal,TWAS-VS_percent,-0.9970284823053625,26,0
+15,Corte 2,Estabilidad,Regresión lineal,Dig1-VFA_mgL,3.62917952701425,1,1
+15,Corte 2,Estabilidad,Regresión lineal,V-HSW_gal,2.393449255521213,2,1
+15,Corte 2,Estabilidad,Regresión lineal,Dig2-VFA_mgL,1.6747686492150067,3,1
+15,Corte 2,Estabilidad,Regresión lineal,Dig1-FOS-TAC,1.279303854689782,4,1
+15,Corte 2,Estabilidad,Regresión lineal,Biogas_lag_1,1.0290465303329825,5,1
+15,Corte 2,Estabilidad,Regresión lineal,Biogas_lag_3,0.831968866321543,6,0
+15,Corte 2,Estabilidad,Regresión lineal,Dig2-FOS-TAC,0.48038572389058914,7,0
+15,Corte 2,Estabilidad,Regresión lineal,Biogas_lag_2,0.22660453702308558,8,0
+15,Corte 2,Estabilidad,Regresión lineal,Biogas_media_7d,0.18729618288272717,9,0
+15,Corte 2,Estabilidad,Regresión lineal,Dig1-alk_mgL,0.16332489863901856,10,0
+15,Corte 2,Estabilidad,Regresión lineal,Q-influent_MGD,0.0846101514958221,11,0
+15,Corte 2,Estabilidad,Regresión lineal,Dig2-T_degF,0.06333569970990567,12,0
+15,Corte 2,Estabilidad,Regresión lineal,Biogas_desv_7d,0.05854246261288125,13,0
+15,Corte 2,Estabilidad,Regresión lineal,SRT,0.05761625246654205,14,0
+15,Corte 2,Estabilidad,Regresión lineal,Dig2-pH,0.014934233608605041,15,0
+15,Corte 2,Estabilidad,Regresión lineal,Biogas_lag_7,0.014317898135348627,16,0
+15,Corte 2,Estabilidad,Regresión lineal,Biogas_desv_3d,-0.00024286350237616715,17,0
+15,Corte 2,Estabilidad,Regresión lineal,TWAS-VS_percent,-0.015145847630545006,18,0
+15,Corte 2,Estabilidad,Regresión lineal,Dig1-pH,-0.044412077756264524,19,0
+15,Corte 2,Estabilidad,Regresión lineal,V-TWAS_gal,-0.14228644173642238,20,0
+15,Corte 2,Estabilidad,Regresión lineal,V-PS_gal,-0.16612570470512794,21,0
+15,Corte 2,Estabilidad,Regresión lineal,Dig2-alk_mgL,-0.17013588829703252,22,0
+15,Corte 2,Estabilidad,Regresión lineal,Dig1-T_degF,-0.2057808650840144,23,0
+15,Corte 2,Estabilidad,Regresión lineal,BOD-influent_mgL,-0.2550382088791892,24,0
+15,Corte 2,Estabilidad,Regresión lineal,Biogas_media_3d,-0.42252404113087183,25,0
+15,Corte 2,Estabilidad,Regresión lineal,Biogas_actual,-0.738181508293718,26,0
+15,Corte 3,Estabilidad,Regresión lineal,Dig1-VFA_mgL,7.349631530629975,1,1
+15,Corte 3,Estabilidad,Regresión lineal,V-HSW_gal,4.195398382723498,2,1
+15,Corte 3,Estabilidad,Regresión lineal,Dig1-FOS-TAC,3.7001419449020645,3,1
+15,Corte 3,Estabilidad,Regresión lineal,Biogas_media_7d,2.86652529922556,4,1
+15,Corte 3,Estabilidad,Regresión lineal,Biogas_lag_1,1.152363160513,5,1
+15,Corte 3,Estabilidad,Regresión lineal,Dig1-pH,0.9857750740043073,6,0
+15,Corte 3,Estabilidad,Regresión lineal,Dig1-alk_mgL,0.8789285291008163,7,0
+15,Corte 3,Estabilidad,Regresión lineal,TWAS-VS_percent,0.6251641072995504,8,0
+15,Corte 3,Estabilidad,Regresión lineal,Q-influent_MGD,0.5441711251240428,9,0
+15,Corte 3,Estabilidad,Regresión lineal,Dig2-FOS-TAC,0.5152383627417642,10,0
+15,Corte 3,Estabilidad,Regresión lineal,Dig2-alk_mgL,0.23263769608437884,11,0
+15,Corte 3,Estabilidad,Regresión lineal,V-PS_gal,0.18431749524389077,12,0
+15,Corte 3,Estabilidad,Regresión lineal,Dig2-pH,0.11618166014831602,13,0
+15,Corte 3,Estabilidad,Regresión lineal,Biogas_desv_3d,0.09837412969958947,14,0
+15,Corte 3,Estabilidad,Regresión lineal,SRT,0.03277145153060275,15,0
+15,Corte 3,Estabilidad,Regresión lineal,Dig1-T_degF,0.02334877846273855,16,0
+15,Corte 3,Estabilidad,Regresión lineal,Biogas_lag_7,-0.029315770455266944,17,0
+15,Corte 3,Estabilidad,Regresión lineal,BOD-influent_mgL,-0.06962057028470028,18,0
+15,Corte 3,Estabilidad,Regresión lineal,Dig2-T_degF,-0.13716832496344722,19,0
+15,Corte 3,Estabilidad,Regresión lineal,Biogas_desv_7d,-0.14793055727266874,20,0
+15,Corte 3,Estabilidad,Regresión lineal,Dig2-VFA_mgL,-0.15342920853887348,21,0
+15,Corte 3,Estabilidad,Regresión lineal,Biogas_lag_3,-0.23801702100656358,22,0
+15,Corte 3,Estabilidad,Regresión lineal,V-TWAS_gal,-0.901087375562313,23,0
+15,Corte 3,Estabilidad,Regresión lineal,Biogas_media_3d,-1.0018688909907396,24,0
+15,Corte 3,Estabilidad,Regresión lineal,Biogas_lag_2,-1.127844577609752,25,0
+15,Corte 3,Estabilidad,Regresión lineal,Biogas_actual,-1.1587176435426159,26,0
+15,Corte 4,Estabilidad,Regresión lineal,Dig1-FOS-TAC,6.247021973103003,1,1
+15,Corte 4,Estabilidad,Regresión lineal,V-HSW_gal,3.9465521397976553,2,1
+15,Corte 4,Estabilidad,Regresión lineal,Biogas_media_7d,0.9730152567012957,3,1
+15,Corte 4,Estabilidad,Regresión lineal,Q-influent_MGD,0.6643039253974294,4,1
+15,Corte 4,Estabilidad,Regresión lineal,Dig1-alk_mgL,0.5749820155820544,5,1
+15,Corte 4,Estabilidad,Regresión lineal,V-PS_gal,0.5650298806634815,6,0
+15,Corte 4,Estabilidad,Regresión lineal,Dig2-VFA_mgL,0.5068216087478546,7,0
+15,Corte 4,Estabilidad,Regresión lineal,Biogas_lag_2,0.38664433400777726,8,0
+15,Corte 4,Estabilidad,Regresión lineal,Biogas_desv_7d,0.25507888907776605,9,0
+15,Corte 4,Estabilidad,Regresión lineal,Biogas_actual,0.17877281724627353,10,0
+15,Corte 4,Estabilidad,Regresión lineal,Biogas_media_3d,0.08961868119904111,11,0
+15,Corte 4,Estabilidad,Regresión lineal,Dig1-VFA_mgL,0.08349430947617975,12,0
+15,Corte 4,Estabilidad,Regresión lineal,Biogas_lag_3,0.04619500214086116,13,0
+15,Corte 4,Estabilidad,Regresión lineal,Biogas_lag_1,0.033607909376350165,14,0
+15,Corte 4,Estabilidad,Regresión lineal,Dig1-T_degF,-0.020108741376983374,15,0
+15,Corte 4,Estabilidad,Regresión lineal,SRT,-0.03284047892703299,16,0
+15,Corte 4,Estabilidad,Regresión lineal,Biogas_desv_3d,-0.03387889282790013,17,0
+15,Corte 4,Estabilidad,Regresión lineal,Dig2-FOS-TAC,-0.034123136145614553,18,0
+15,Corte 4,Estabilidad,Regresión lineal,Dig2-T_degF,-0.045014373245592765,19,0
+15,Corte 4,Estabilidad,Regresión lineal,Dig1-pH,-0.05018083435250702,20,0
+15,Corte 4,Estabilidad,Regresión lineal,Biogas_lag_7,-0.06415749089772689,21,0
+15,Corte 4,Estabilidad,Regresión lineal,BOD-influent_mgL,-0.095172099778258,22,0
+15,Corte 4,Estabilidad,Regresión lineal,V-TWAS_gal,-0.1144828262736155,23,0
+15,Corte 4,Estabilidad,Regresión lineal,Dig2-pH,-0.19293242203678104,24,0
+15,Corte 4,Estabilidad,Regresión lineal,Dig2-alk_mgL,-0.26087963034403716,25,0
+15,Corte 4,Estabilidad,Regresión lineal,TWAS-VS_percent,-0.5214476317023717,26,0
+30,Corte 1,Operativo,Random Forest A,Biogas_media_7d,0.30389177896982106,1,1
+30,Corte 1,Operativo,Random Forest A,Biogas_lag_7,0.2707181529581547,2,1
+30,Corte 1,Operativo,Random Forest A,Biogas_lag_3,0.21847868931551845,3,1
+30,Corte 1,Operativo,Random Forest A,Dig1-T_degF,0.1792302137838,4,1
+30,Corte 1,Operativo,Random Forest A,V-HSW_gal,0.16247952716607159,5,1
+30,Corte 1,Operativo,Random Forest A,Dig1-pH,0.13676720349457555,6,0
+30,Corte 1,Operativo,Random Forest A,Biogas_desv_7d,0.045403439550786115,7,0
+30,Corte 1,Operativo,Random Forest A,Q-influent_MGD,0.003977384497147085,8,0
+30,Corte 1,Operativo,Random Forest A,TWAS-VS_percent,0.0011361164439406934,9,0
+30,Corte 1,Operativo,Random Forest A,Biogas_lag_1,-0.05804558821130499,10,0
+30,Corte 1,Operativo,Random Forest A,SRT,-0.06539458748980778,11,0
+30,Corte 1,Operativo,Random Forest A,Biogas_actual,-0.07451105615158368,12,0
+30,Corte 1,Operativo,Random Forest A,Biogas_media_3d,-0.09685961299328838,13,0
+30,Corte 1,Operativo,Random Forest A,V-TWAS_gal,-0.10099316528640614,14,0
+30,Corte 1,Operativo,Random Forest A,Dig2-T_degF,-0.10870172661396112,15,0
+30,Corte 1,Operativo,Random Forest A,V-PS_gal,-0.13232410800551975,16,0
+30,Corte 1,Operativo,Random Forest A,Biogas_desv_3d,-0.1734784172469986,17,0
+30,Corte 1,Operativo,Random Forest A,BOD-influent_mgL,-0.17700171811280613,18,0
+30,Corte 1,Operativo,Random Forest A,Biogas_lag_2,-0.21019581109229363,19,0
+30,Corte 1,Operativo,Random Forest A,Dig2-pH,-0.2527705775770137,20,0
+30,Corte 2,Operativo,Random Forest A,Dig1-pH,0.514382003495274,1,1
+30,Corte 2,Operativo,Random Forest A,BOD-influent_mgL,0.27520520016032607,2,1
+30,Corte 2,Operativo,Random Forest A,V-HSW_gal,0.1538803001763654,3,1
+30,Corte 2,Operativo,Random Forest A,Dig2-pH,0.05643722879589745,4,1
+30,Corte 2,Operativo,Random Forest A,V-PS_gal,0.0387645633354353,5,1
+30,Corte 2,Operativo,Random Forest A,Q-influent_MGD,0.019812320218051127,6,0
+30,Corte 2,Operativo,Random Forest A,SRT,0.002415148148149626,7,0
+30,Corte 2,Operativo,Random Forest A,Dig2-T_degF,-0.04636695449734703,8,0
+30,Corte 2,Operativo,Random Forest A,Biogas_desv_3d,-0.05665404813457968,9,0
+30,Corte 2,Operativo,Random Forest A,Dig1-T_degF,-0.058173631425366065,10,0
+30,Corte 2,Operativo,Random Forest A,Biogas_lag_2,-0.06838123386243353,11,0
+30,Corte 2,Operativo,Random Forest A,Biogas_lag_1,-0.09604638871252291,12,0
+30,Corte 2,Operativo,Random Forest A,TWAS-VS_percent,-0.22187256244989584,13,0
+30,Corte 2,Operativo,Random Forest A,Biogas_media_3d,-0.2328019511303495,14,0
+30,Corte 2,Operativo,Random Forest A,Biogas_lag_3,-0.31079988895302224,15,0
+30,Corte 2,Operativo,Random Forest A,Biogas_actual,-0.3176066008337415,16,0
+30,Corte 2,Operativo,Random Forest A,Biogas_lag_7,-0.3637456204585575,17,0
+30,Corte 2,Operativo,Random Forest A,Biogas_media_7d,-0.38953125271765005,18,0
+30,Corte 2,Operativo,Random Forest A,Biogas_desv_7d,-0.42789249575116345,19,0
+30,Corte 2,Operativo,Random Forest A,V-TWAS_gal,-1.934874880230879,20,0
+30,Corte 3,Operativo,Random Forest A,Q-influent_MGD,0.730089844314417,1,1
+30,Corte 3,Operativo,Random Forest A,Dig1-pH,0.5450833454482058,2,1
+30,Corte 3,Operativo,Random Forest A,BOD-influent_mgL,0.268607098488814,3,1
+30,Corte 3,Operativo,Random Forest A,Biogas_lag_2,0.2571525695257158,4,1
+30,Corte 3,Operativo,Random Forest A,SRT,0.18564379918494184,5,1
+30,Corte 3,Operativo,Random Forest A,Biogas_media_3d,0.16125896493982025,6,0
+30,Corte 3,Operativo,Random Forest A,Biogas_media_7d,0.051562037740039555,7,0
+30,Corte 3,Operativo,Random Forest A,V-TWAS_gal,0.0492495953253119,8,0
+30,Corte 3,Operativo,Random Forest A,TWAS-VS_percent,0.04756847219447735,9,0
+30,Corte 3,Operativo,Random Forest A,Biogas_desv_7d,-0.04198044013129376,10,0
+30,Corte 3,Operativo,Random Forest A,Biogas_lag_7,-0.052371017522155935,11,0
+30,Corte 3,Operativo,Random Forest A,Biogas_actual,-0.05852260054230953,12,0
+30,Corte 3,Operativo,Random Forest A,Biogas_lag_1,-0.06275980372008902,13,0
+30,Corte 3,Operativo,Random Forest A,V-PS_gal,-0.070557233908945,14,0
+30,Corte 3,Operativo,Random Forest A,Biogas_lag_3,-0.0881564276992826,15,0
+30,Corte 3,Operativo,Random Forest A,Biogas_desv_3d,-0.11467525693354688,16,0
+30,Corte 3,Operativo,Random Forest A,Dig2-pH,-0.184455395715392,17,0
+30,Corte 3,Operativo,Random Forest A,V-HSW_gal,-0.3522577791732061,18,0
+30,Corte 3,Operativo,Random Forest A,Dig1-T_degF,-0.5153031477728611,19,0
+30,Corte 3,Operativo,Random Forest A,Dig2-T_degF,-0.8241258541775629,20,0
+30,Corte 4,Operativo,Random Forest A,Dig2-pH,0.8592482555681038,1,1
+30,Corte 4,Operativo,Random Forest A,Q-influent_MGD,0.3326002513018388,2,1
+30,Corte 4,Operativo,Random Forest A,Biogas_lag_1,0.27358231112366127,3,1
+30,Corte 4,Operativo,Random Forest A,Biogas_lag_2,0.19141378113432736,4,1
+30,Corte 4,Operativo,Random Forest A,Biogas_desv_7d,0.17238592167011432,5,1
+30,Corte 4,Operativo,Random Forest A,SRT,0.17007342562268946,6,0
+30,Corte 4,Operativo,Random Forest A,Dig1-T_degF,0.13232355335968507,7,0
+30,Corte 4,Operativo,Random Forest A,Biogas_media_3d,0.12018004495263242,8,0
+30,Corte 4,Operativo,Random Forest A,Dig1-pH,0.10062497123408605,9,0
+30,Corte 4,Operativo,Random Forest A,V-TWAS_gal,0.07450643553547849,10,0
+30,Corte 4,Operativo,Random Forest A,BOD-influent_mgL,0.060301652111172645,11,0
+30,Corte 4,Operativo,Random Forest A,Biogas_lag_7,-0.015993103300079525,12,0
+30,Corte 4,Operativo,Random Forest A,Biogas_media_7d,-0.03692534688500189,13,0
+30,Corte 4,Operativo,Random Forest A,Dig2-T_degF,-0.041071373015874005,14,0
+30,Corte 4,Operativo,Random Forest A,TWAS-VS_percent,-0.04235263937511959,15,0
+30,Corte 4,Operativo,Random Forest A,Biogas_lag_3,-0.11510942063492066,16,0
+30,Corte 4,Operativo,Random Forest A,Biogas_desv_3d,-0.13733597101449108,17,0
+30,Corte 4,Operativo,Random Forest A,V-HSW_gal,-0.18716257067570014,18,0
+30,Corte 4,Operativo,Random Forest A,Biogas_actual,-0.2752755969634208,19,0
+30,Corte 4,Operativo,Random Forest A,V-PS_gal,-0.4862949406487246,20,0

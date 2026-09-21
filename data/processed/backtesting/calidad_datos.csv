@@ -1,0 +1,8 @@
+﻿fuente,variable_intervalo,problema,conteo,tratamiento
+LABS,Calendario,Hueco continuo sin registros,83,No se rellenó
+LABS,HSW-VS_percent,Valores ausentes,358,Excluida del modelado
+LABS,PS-VS_percent,Valores ausentes,377,Excluida del modelado
+LABS,HSW-COD_mgL,Valores ausentes,471,Excluida del modelado
+LABS,"Temperaturas, pH, DBO y TWAS-VS",Ausentes poco frecuentes,84,Mediana aprendida en entrenamiento
+SCADA,Timestamp,Minutos ausentes,484,No se interpolaron
+SCADA,Cobertura diaria,Días incompletos,11,No se utilizaron como objetivo

@@ -1,0 +1,12 @@
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+.jupyter/
+.jupyter_runtime/
+verification/
+*.py[cod]
+.DS_Store
+Thumbs.db
+
+# Archivo original de gran tamaño: descargar desde la fuente indicada en el README
+data/raw/SCADA-raw.csv
